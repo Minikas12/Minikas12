@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Welcome to my Github channel
 <!--
 **Minikas12/Minikas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
